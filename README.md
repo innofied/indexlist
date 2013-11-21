@@ -6,7 +6,7 @@ In iOS apps, often we need to implement Index Scrolling in a TableView, just lik
  
 Prerequisites:
 --------------
-A besic idea of UITableView and its delegate functions.
+A basic idea of UITableView and its delegate functions.
 
 Blog:
 -----
