@@ -10,7 +10,7 @@ A basic idea of UITableView and its delegate functions.
 
 Blog:
 -----
-A blog of the above project is also available at .............. for better understanding.   
+A blog of the above project is also available at http://innofied.com/indexed-list-in-ios/ for better understanding.   
 
 
 ![Indexed Tableview](https://raw.github.com/innofied/indexlist/master/illustration.png)
